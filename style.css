@@ -1,0 +1,35 @@
+#chd{
+    margin:50vh 50vw;
+  }
+  @media only screen and (max-width: 4000px) {
+    body {
+      background-image: linear-gradient(green,blue);
+    }
+    }
+  @media only screen and (max-width: 800px) {
+    body {
+      background-image: linear-gradient(green,red);
+    }
+    }
+  
+  @media only screen and (max-width: 700px) {
+    body {
+      background-image: linear-gradient(green,yellow);
+    }
+  @media only screen and (max-width: 700px) {
+    body {
+      background-image: linear-gradient(green,violet);
+    }
+    @media only screen and (max-width: 500px) {
+    body {
+      background-image: linear-gradient(green,white);
+    }
+    @media only screen and (max-width: 200px) {
+    body {
+      background-image: linear-gradient(green,black);
+    }
+    @media only screen and (max-width: 100px) {
+    body {
+      background-image: linear-gradient(green,lightgreen);
+    }
+  }
